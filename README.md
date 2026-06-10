@@ -120,3 +120,29 @@ hotel-booking-project-snowflake/
 
 ---
 
+## Dashboard Output Screenshots
+
+### Total Bookings, Total Revenue, Avg Booking Value, Total Guests, Revenue per Month, Bookings per Month
+
+
+
+<img width="1757" height="807" alt="dashboard-output" src="https://github.com/user-attachments/assets/9ab78a89-bc73-4ce6-ad57-d379cd7f0e7e" />
+
+
+
+
+
+### Top Cities by Revenue, Bookings by Room Type, Bookings by Status
+
+
+
+<img width="1755" height="796" alt="dashboard-output1" src="https://github.com/user-attachments/assets/c318faac-978b-4d21-a8f5-19327bc25cd4" />
+
+
+
+
+
+
+
+
+
